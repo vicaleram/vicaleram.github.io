@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"AJ":
+  url: https://beta.iopscience.iop.org/journal/1538-3881
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"RNAAS":
+  url: https://journals.aas.org/research-notes/
 
-"Vision":
-  color: "#009f36"
