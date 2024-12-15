@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Victor Alejandro Ramirez Delgado
     - name: Date of Birth
-      value: 14th March 1879
+      value: 14th October 1999
     - name: Languages
-      value: English, German
+      value: Spanish, English, Portuguese
 
 - title: Education
   type: time_table
