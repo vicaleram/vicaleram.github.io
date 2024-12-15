@@ -183,6 +183,8 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  - _posts
+  - _pages/blog.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md

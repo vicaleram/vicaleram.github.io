@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Unidel Fellow, <a href='#'>University of Delaware</a>. Newark, Delaware, United States. viclrd@udel.edu.
+subtitle: Ph.D. Student in Astrophysics and Unidel Fellow at the <a href='https://www.udel.edu/academics/colleges/cas/units/departments/physics-astronomy/'>University of Delaware</a>. <a href='viclrd@udel.edu'>viclrd@udel.edu</a>.
 
 profile:
   align: right
