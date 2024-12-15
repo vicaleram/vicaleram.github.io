@@ -4,7 +4,7 @@ title: Stellar Activity in RV Planet Searches
 description: with background image
 img: assets/img/stellar_activity.png
 importance: 1
-category: work
+category: Exoplanets
 related_publications: true
 ---
 
