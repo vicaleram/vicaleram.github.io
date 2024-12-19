@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Populations of Magentic Massive Stars
+title: Populations of Magnetic Massive Stars
 description: Simulating the 10% fraction of magnetic O,B type stars
 img: assets/img/PAPER_HRBeq.pdf
 importance: 2
