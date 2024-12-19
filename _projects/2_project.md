@@ -1,25 +1,21 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Populations of Magentic Massive Stars
+description: Simulating the 10% fraction of magnetic O,B type starts
+img: assets/img/hr_strbrstBf20_00.gif
 importance: 2
-category: work
-giscus_comments: true
+category: Magnetic Massive Stars
+giscus_comments: false
 ---
+# Under construction
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Description
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Approximately 10% of surveyed O, B, A-type stars show evidence of strong magnetic field in spectropolarimetric surveys. The mechanism from which these magnetic fields are generated are an ongoing subject of research, since these massive stars ($>2~M_\odot$) are not convective on their outer layers as is the case of our Sun. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I am using evolution models, combined with the population codes to generate a population of magnetic O and B type stars, to determine the evolution of the fraction of the magnetic stars in our population. By including observational biases in our calculation from spectropolarimetry instruments at the CFHT, we can also account for how there could be a population of magnetic stars that we are unable to detect.
+
+Below there are a few illustrations of the ongoing work that will soon be published:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -5,7 +5,7 @@ permalink: /projects/
 description: List of ongoing research projects.
 nav: true
 nav_order: 3
-display_categories: [Exoplanets, Stellar Magnetism, Magnetic Massive Stars]
+display_categories: [Exoplanets, Magnetic Massive Stars]
 horizontal: false
 ---
 
