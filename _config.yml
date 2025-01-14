@@ -183,6 +183,7 @@ kramdown:
 include: ["_pages"]
 exclude:
   - _projects
+  - _pages/projects.md
   - _posts
   - _pages/blog.md
   - _pages/repositories.md
