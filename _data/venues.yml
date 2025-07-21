@@ -6,3 +6,7 @@
   url: https://journals.aas.org/research-notes/
   color: "#009f36"
 
+"arXiv":
+  url: https://arxiv.org
+  color: "#ff0000"
+
