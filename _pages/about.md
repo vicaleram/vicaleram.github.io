@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>University of Delaware</p>
     <p>Newark, Delaware,</p>
-    </p>United States</p>
+    <p>United States</p>
 
 ## news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
