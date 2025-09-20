@@ -1,6 +1,7 @@
 ---
 layout: about
-title: About
+title: "Victor A. Ramirez Delgado — Astrophysics Ph.D."
+description: "Exoplanet detection, stellar activity, and time-series analysis — University of Delaware."
 permalink: /
 subtitle: Ph.D. Student in Astrophysics and Unidel Fellow at the <a href='https://www.udel.edu/academics/colleges/cas/units/departments/physics-astronomy/'>University of Delaware</a>.
 
