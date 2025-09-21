@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Victor A. Ramirez Delgado — Astrophysics Ph.D.
+title: "Victor A. Ramirez Delgado — Astrophysics Ph.D."
 permalink: /
 subtitle: Ph.D. Student in Astrophysics and Unidel Fellow at the <a href='https://www.udel.edu/academics/colleges/cas/units/departments/physics-astronomy/'>University of Delaware</a>.
 
