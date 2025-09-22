@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
+gem "jekyll", "~> 4.3"   # optional but recommended to pin
 group :jekyll_plugins do
+    gem "jekyll-seo-tag", "~> 2.8"  # <-- add this line
     gem 'classifier-reborn'
-    gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
