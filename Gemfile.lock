@@ -140,6 +140,8 @@ GEM
       citeproc-ruby (~> 1.0)
       csl-styles (~> 1.0)
       jekyll (~> 4.0)
+    jekyll-seo-tag (2.8.0)
+      jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-tabs (1.2.1)
@@ -256,7 +258,7 @@ DEPENDENCIES
   css_parser
   feedjira
   httparty
-  jekyll
+  jekyll (~> 4.3)
   jekyll-archives
   jekyll-email-protect
   jekyll-feed
@@ -268,6 +270,7 @@ DEPENDENCIES
   jekyll-paginate-v2
   jekyll-regex-replace
   jekyll-scholar
+  jekyll-seo-tag (~> 2.8)
   jekyll-sitemap
   jekyll-tabs
   jekyll-toc
