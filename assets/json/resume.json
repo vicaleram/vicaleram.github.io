@@ -26,7 +26,11 @@
       "position": "Teaching Assistant",
       "startDate": "Summer 2019",
       "endDate": "Spring 2021",
-      "highlights": ["PHYS 207: Calculus Based Fundamentals of Physics I", "PHYS 202: Algebra Based Introductory Physics II", "PHYS 201: Algebra Based Introductory Physics"]
+      "highlights": [
+        "PHYS 207: Calculus Based Fundamentals of Physics I",
+        "PHYS 202: Algebra Based Introductory Physics II",
+        "PHYS 201: Algebra Based Introductory Physics"
+      ]
     }
   ],
   "education": [
