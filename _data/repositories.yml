@@ -1,14 +1,10 @@
-github_users:
-  - torvalds
-  - alshedivat
+# this file controls the "Repositories" page (currently excluded from the build in _config.yml)
+# add your GitHub username(s) below to show a profile card, and/or list specific repos to feature
 
 repo_description_lines_max: 2
 
+github_users:
+  # - your-github-username
+
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  # - your-github-username/some-repo

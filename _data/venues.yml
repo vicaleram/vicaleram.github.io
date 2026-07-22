@@ -2,6 +2,10 @@
   url: https://beta.iopscience.iop.org/journal/1538-3881
   color: "#00369f"
 
+"PASP":
+  url: https://iopscience.iop.org/journal/1538-3873
+  color: "#ff8c00"
+
 "RNAAS":
   url: https://journals.aas.org/research-notes/
   color: "#009f36"

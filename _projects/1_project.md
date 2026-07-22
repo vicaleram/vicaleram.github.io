@@ -8,11 +8,9 @@ category: Exoplanets
 related_publications: true
 ---
 
-# Under construction
+## Description
 
-## Description:
-
-New generation spectrographs are puhsing the limits of finding radial velocity (RV) signals to the cm/s precision. This level of preciion is needed to find a signal on the order of ~10cm/s in RV such as the one produced by the Earth orbiting around the Sun. However, the major obstacle of detecting these weak Earht-like planet signals comes from the physical proceses at the surface of stars that generate noise that can masquerade or appear to be a planetary signal in RV curves.
+New generation spectrographs are pushing the limits of finding radial velocity (RV) signals to cm/s precision. This level of precision is needed to find a signal on the order of ~10 cm/s in RV, such as the one produced by the Earth orbiting the Sun. However, the major obstacle to detecting these weak Earth-like planet signals comes from physical processes at the surface of stars that generate noise which can masquerade as, or appear to be, a planetary signal in RV curves.
 
 I have been working on developing statistical models to better identify planet and stellar activity signals in RV time series, with the goal of developing better informed planet models that will allow us to find planetary signals around the 10cm/s precisions.
 

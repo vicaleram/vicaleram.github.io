@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+nav_title: About
 permalink: /
 subtitle: Ph.D. Student in Astrophysics and Unidel Fellow at the <a href='https://www.udel.edu/academics/colleges/cas/units/departments/physics-astronomy/'>University of Delaware</a>.
 

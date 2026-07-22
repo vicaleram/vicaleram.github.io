@@ -1,4 +1,9 @@
-{% seo %}
+{% if page.permalink == '/' %}
+  <title>{{ site.title }}</title>
+  {% seo title=false %}
+{% else %}
+  {% seo %}
+{% endif %}
 
 <!-- Bootstrap & MDB -->
 <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
